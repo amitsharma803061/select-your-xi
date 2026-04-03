@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "player-name": "Shoriful Islam",
+    "player-image": "https://i.ibb.co.com/MyPzhRCb/images-jpg1.jpg",
+    "player-country": "Bangladesh",
+    "playing-role": "Bowler",
+    "rating": 89,
+    "bating-style": "Left-hand bat",
+    "bowling-style": "Left-arm fast-medium",
+    "price": 4400000
+  },
+  {
+    "id": 2,
+    "player-name": "Babar Azam",
+    "player-image": "https://i.ibb.co.com/84PWNNsL/download-jpg12.jpg",
+    "player-country": "Pakistan",
+    "playing-role": "Batter",
+    "rating": 95,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm offbreak",
+    "price": 12000000
+  },
+  {
+    "id": 3,
+    "player-name": "Mustafizur Rahman",
+    "player-image": "https://i.ibb.co.com/tpgLpM11/download-jpg13.jpg",
+    "player-country": "Bangladesh",
+    "playing-role": "Bowler",
+    "rating": 91,
+    "bating-style": "Left-hand bat",
+    "bowling-style": "Left-arm fast-medium",
+    "price": 6000000
+  },
+  {
+    "id": 4,
+    "player-name": "Rashid Khan",
+    "player-image": "https://i.ibb.co.com/fVMX4wKX/download-jpg14.jpg",
+    "player-country": "Afghanistan",
+    "playing-role": "All-Rounder",
+    "rating": 94,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm legbreak",
+    "price": 10500000
+  },
+  {
+    "id": 5,
+    "player-name": "Towhid Hridoy",
+    "player-image": "https://i.ibb.co.com/hRp74NW6/images-jpg5.jpg",
+    "player-country": "Bangladesh",
+    "playing-role": "Batter",
+    "rating": 87,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "N/A",
+    "price": 9200000
+  },
+  {
+    "id": 6,
+    "player-name": "David Miller",
+    "player-image": "https://i.ibb.co.com/D6nqC7M/images-jpg6.jpg",
+    "player-country": "South Africa",
+    "playing-role": "Batter",
+    "rating": 88,
+    "bating-style": "Left-hand bat",
+    "bowling-style": "Right-arm offbreak",
+    "price": 8500000
+  },
+  {
+    "id": 7,
+    "player-name": "Mehidy Hasan Miraz",
+    "player-image": "https://i.ibb.co.com/jk8FzgSk/download-jpg7.jpg",
+    "player-country": "Bangladesh",
+    "playing-role": "All-Rounder",
+    "rating": 88,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm offbreak",
+    "price": 7500000
+  },
+  {
+    "id": 8,
+    "player-name": "Wanindu Hasaranga",
+    "player-image": "https://i.ibb.co.com/9kdrR5RM/download-jpg9.jpg",
+    "player-country": "Sri Lanka",
+    "playing-role": "All-Rounder",
+    "rating": 90,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm legbreak",
+    "price": 9500000
+  },
+  {
+    "id": 9,
+    "player-name": "Taskin Ahmed",
+    "player-image": "https://i.ibb.co.com/RTjhCT7N/download-jpg8.jpg",
+    "player-country": "Bangladesh",
+    "playing-role": "Bowler",
+    "rating": 90,
+    "bating-style": "Left-hand bat",
+    "bowling-style": "Right-arm fast",
+    "price": 8000000
+  },
+  {
+    "id": 10,
+    "player-name": "Mohammad Naim",
+    "player-image": "https://i.ibb.co.com/Z1xfK3W2/images-jpg10.jpg",
+    "player-country": "Bangladesh",
+    "playing-role": "Batter",
+    "rating": 80,
+    "bating-style": "Left-hand bat",
+    "bowling-style": "N/A",
+    "price": 11000000
+  },
+  {
+    "id": 11,
+    "player-name": "Nicholas Pooran",
+    "player-image": "https://i.ibb.co.com/4nKBhpvf/download-jpg11.jpg",
+    "player-country": "West Indies",
+    "playing-role": "Wicketkeeper Batter",
+    "rating": 92,
+    "bating-style": "Left-hand bat",
+    "bowling-style": "N/A",
+    "price": 13000000
+  },
+  {
+    "id": 12,
+    "player-name": "Mahmudullah Riyad",
+    "player-image": "https://i.ibb.co.com/Qv1RvN5n/download-jpg12.jpg",
+    "player-country": "Bangladesh",
+    "playing-role": "All-Rounder",
+    "rating": 83,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm offbreak",
+    "price": 3500000
+  }
+]
